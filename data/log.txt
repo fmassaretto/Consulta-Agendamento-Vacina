@@ -1,0 +1,12 @@
+2021-04-05 23:23:26.398626 - Message: Passed the time for the next e-mail/SMS? no2021-04-05 23:24:35.554626 - Message: Vaga está Disponivel2021-04-05 23:24:46.085626 - Message: Passed the time for the next e-mail/SMS? no2021-04-05 23:26:38.686632 - Message: Vaga está Disponivel2021-04-05 23:28:07.007627 - Message: Passed the time for the next e-mail/SMS? no2021-04-05 23:28:54.902631 - Message: Vaga está Disponivel2021-04-05 23:29:51.596627 - Message: Passed the time for the next e-mail/SMS? no2021-04-05 23:30:32.317631 - Message: Vaga está Disponivel2021-04-05 23:31:00.224632 - Message: Passed the time for the next e-mail/SMS? no2021-04-05 23:32:02.341631 - Message: Vaga está Disponivel2021-04-05 23:32:45.034631 - Message: Passed the time for the next e-mail/SMS? no2021-04-05 23:33:06.176626 - Message: Sending e-mail...2021-04-05 23:33:07.509632 - Message: loaded template for Segunda dose2021-04-05 23:33:10.294635 - Message: Vaga está Disponivel2021-04-05 23:34:16.054626 - Message: Vaga está Disponivel 
+2021-04-05 23:34:16.070630 - Message: Sending e-mail/SMS right way without wait 
+2021-04-05 23:34:17.166628 - Message: Sending e-mail... 
+2021-04-05 23:34:18.343627 - Message: loaded template for Segunda dose 
+2021-04-05 23:34:27.200626 - Message: Vaga está Disponivel 
+2021-04-05 23:34:30.587631 - Message: Passed the time for the next e-mail/SMS? no 
+2021-04-05 23:36:22.608627 - Message: Vaga está Disponivel 
+2021-04-05 23:36:22.626626 - Message: Sending e-mail/SMS right way without wait 
+2021-04-05 23:36:23.769630 - Message: Sending e-mail... 
+2021-04-05 23:36:24.938635 - Message: loaded template for Segunda dose 
+2021-04-05 23:36:27.810625 - Message: e-mail sent for Fabio 
+2021-04-05 23:36:29.770628 - Message: e-mail sent for Vivian 

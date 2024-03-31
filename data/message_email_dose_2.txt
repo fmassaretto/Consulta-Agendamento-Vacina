@@ -1,0 +1,9 @@
+${PERSON_NAME}, 
+
+Pode ser que abriram as vagas para vacinação da <b>Segunda dose</b>, dê uma olhada no site:
+
+https://vacina.jundiai.sp.gov.br/
+
+Yours Truly,
+
+Fabio
